@@ -1,7 +1,7 @@
 # Hi 👋, I'm Srimali Jayaweera Arachchi
 
 Undergraduate of University of Ruhuna, Faculty of Engineering  
-GitHub: [srimali](https://github.com/srimali)
+GitHub: [Srimali JayaweeraArachchi]([https://github.com/srimali](https://github.com/Srimali-JayaweeraArachchi))
 
 🔭 I’m currently working on Medical Clinic App
 
