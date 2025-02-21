@@ -8,7 +8,7 @@ Undergraduate of University of Ruhuna, Faculty of Engineering
 📫 How to reach me: **jasrimalimadurangani@gmail.com**  
 
 ## Connect with me:
-- [GitHub](https://github.com/Srimali-JayaweeraArachchi)
+
 - [LinkedIn](https://www.linkedin.com/in/srimali-jayaweeraarachchi-824937261)
 
 ## 🛠️ Languages and Tools:
