@@ -3,8 +3,8 @@
 Undergraduate of University of Ruhuna, Faculty of Engineering  
 
 🔭 I’m currently working on **Medical Clinic App**  
-🌱 I’m currently learning **MERN Stack, DevOps, Machine Learning, Networking & Cybersecurity**  
-💬 Ask me about **React, Full-Stack Development, and Networking & Cybersecurity**  
+🌱 I’m currently learning **MERN Stack Web Development, DevOps, Machine Learning, AI**  
+💬 Ask me about **React, Full-Stack Development**  
 📫 How to reach me: **jasrimalimadurangani@gmail.com**  
 
 ## Connect with me:
