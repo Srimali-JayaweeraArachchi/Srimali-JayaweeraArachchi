@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Srimali Jayaweera Arachchi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -16,7 +16,7 @@
 const srimali = {
     location: "Sri Lanka 🇱🇰",
     education: "Computer Engineering @ University of Ruhuna",
-    currentFocus: ["Full Stack Development"],
+    currentFocus: ["Full Stack Development", "AI/ML", "Cybersecurity"],
     passions: ["Problem Solving", "Innovation", "Continuous Learning"],
     motto: "Strive not to be a success, but rather to be of value"
 };
@@ -25,7 +25,7 @@ const srimali = {
 - 🔭 I'm currently working on **Medical Clinic Management System**
 - 🌱 I'm learning **Advanced React, Machine Learning, DevOps**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Full Stack Development or Tech in general**
+- 💬 Ask me about **Full Stack Development, AI/ML, or Tech in general**
 - ⚡ Fun fact: I love solving real-world problems through code!
 
 ---
@@ -90,7 +90,7 @@ const srimali = {
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srimali-JayaweeraArachchi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srimali-JayaweeraArachchi&layout=compact&langs_count=8&theme=radical&hide=jupyter%20notebook,html,css"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srimali-JayaweeraArachchi&layout=compact&langs_count=10&theme=radical&hide=html,css,scss,typescript,shell,powershell,batchfile,dockerfile&include_all_commits=true&exclude_repo=github-readme-stats"/>
 </div>
 
 <div align="center">
@@ -140,7 +140,7 @@ const srimali = {
 ## 🎯 Current Goals
 
 - 🚀 Master advanced React patterns and Next.js
-- 🤖 Deep dive into Web Development 
+- 🤖 Deep dive into Machine Learning and AI
 - 🔐 Explore cybersecurity and ethical hacking
 - 🌟 Contribute to more open-source projects
 - 📚 Share knowledge through technical blogging
