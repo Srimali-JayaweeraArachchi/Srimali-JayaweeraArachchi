@@ -41,7 +41,7 @@ A curious and passionate Computer Engineering undergraduate, driven by real-worl
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srimali-JayaweeraArachchi&theme=radical&langs_count=8&hide=Jupyter%20Notebook)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srimali-JayaweeraArachchi&layout=compact&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srimali-JayaweeraArachchi&show_icons=true&theme=radical)
 
 ---
