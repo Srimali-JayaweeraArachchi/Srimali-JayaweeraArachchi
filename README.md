@@ -1,6 +1,6 @@
 # Hi 👋, I'm Srimali Jayaweera Arachchi!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Computer+Engineering+Undergraduate;Full-Stack+Developer+%7C+MERN+Stack;Cybersecurity+%26+Networking+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Computer+Engineering+Undergraduate;Full-Stack+Developer+%7C+MERN+Stack)](https://git.io/typing-svg)
 
 ---
 
@@ -41,8 +41,8 @@ A curious and passionate Computer Engineering undergraduate, driven by real-worl
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srimali-Jayaweera&theme=radical&langs_count=8&hide=Jupyter%20Notebook)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srimali-Jayaweera&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srimali-JayaweeraArachchi&theme=radical&langs_count=8&hide=Jupyter%20Notebook)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srimali-JayaweeraArachchi&show_icons=true&theme=radical)
 
 ---
 
