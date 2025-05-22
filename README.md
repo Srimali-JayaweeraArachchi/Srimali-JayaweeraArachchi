@@ -10,7 +10,7 @@ A curious and passionate Computer Engineering undergraduate, driven by real-worl
 
 ## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/srimali-jayaweeraarachchi-824937261)
-- [Email](jasrimalimadurangani@gmail.com)
+- 📧 Email: jasrimalimadurangani@gmail.com
 
 ## 🛠️ Languages & Tools
 
@@ -36,8 +36,8 @@ A curious and passionate Computer Engineering undergraduate, driven by real-worl
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srimali-Jayaweera&theme=radical&langs_count=8&hide=Jupyter%20Notebook)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srimali-Jayaweera&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srimali-JayaweeraArachchi&theme=radical&langs_count=8&hide=Jupyter%20Notebook)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srimali-JayaweeraArachchi&show_icons=true&theme=radical)
 
 ---
 
