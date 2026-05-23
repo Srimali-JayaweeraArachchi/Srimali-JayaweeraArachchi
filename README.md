@@ -16,16 +16,17 @@
 const srimali = {
     location: "Sri Lanka 🇱🇰",
     education: "Computer Engineering @ University of Ruhuna",
-    currentFocus: ["Full Stack Development"],
+    currentFocus: ["Full Stack Development", "E-Commerce Solutions"],
     passions: ["Problem Solving", "Innovation", "Continuous Learning"],
     motto: "Strive not to be a success, but rather to be of value"
 };
 ```
 
-- 🔭 I'm currently working on **Medical Clinic Management System**
-- 🌱 I'm learning **Advanced React, Machine Learning, DevOps**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Full Stack Development, Tech in general**
+- 🎓 **Final Year Project:** Building a comprehensive **E-Procurement Application** for efficient procurement management
+- 🔭 I'm currently working on **Full Stack Development Projects**
+- 🌱 I'm learning **Advanced React, Machine Learning, DevOps, Cloud Technologies**
+- 👯 I'm looking to collaborate on **Open Source Projects & Innovative Solutions**
+- 💬 Ask me about **Full Stack Development, E-Commerce, Tech in general**
 - ⚡ Fun fact: I love solving real-world problems through code!
 
 ---
@@ -51,16 +52,17 @@ const srimali = {
 ### Languages
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
 </p>
 
 ### Frontend
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
@@ -71,6 +73,7 @@ const srimali = {
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
 </p>
 
 ### Tools & Technologies
@@ -80,7 +83,7 @@ const srimali = {
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 </p>
 
 ---
@@ -89,7 +92,7 @@ const srimali = {
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srimali-JayaweeraArachchi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srimali-JayaweeraArachchi&layout=compact&langs_count=10&theme=radical&hide=html,css,scss,typescript,shell,powershell,batchfile,dockerfile&include_all_commits=true&exclude_repo=github-readme-stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srimali-JayaweeraArachchi&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
 <div align="center">
@@ -97,7 +100,7 @@ const srimali = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srimali-JayaweeraArachchi&theme=redical&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srimali-JayaweeraArachchi&theme=radical&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -106,43 +109,90 @@ const srimali = {
 
 <div align="center">
 
+### 📦 E-Procurement Application (Final Year Project)
+**Comprehensive Procurement Management System**
+- 🎓 **Status:** University Final Year Project
+- 🔧 **Tech:** Full Stack Web Application (MERN/Next.js)
+- ✨ **Features:** Vendor management, purchase orders, inventory tracking, analytics dashboard
+- 📊 **Scope:** End-to-end procurement workflow automation
+- 🚀 **Impact:** Streamlining organizational procurement processes
+
 ### 🏥 Medical Clinic Management System
 **Full-Stack Web & Mobile Application**
-- 🔧 **Tech:** React, Node.js, Express, MongoDB, React Native
+- 🔧 **Tech:** React, Node.js, Express, MongoDB
 - ✨ **Features:** Patient management, appointment scheduling, medical records
 - 📱 **Platform:** Web + Mobile responsive design
 
 ### 🍽️ Food Recipe Application
 **Full-Stack App with CI/CD Pipeline**
-- 🔧 **Tech:** MERN Stack, Docker, Jenkins, AWS
+- 🔧 **Tech:** MERN Stack, Docker, Jenkins
 - ✨ **Features:** Recipe sharing, user authentication, search functionality
 - 🚀 **DevOps:** Automated deployment pipeline
 
-### 🎯 More Projects Coming Soon...
-*Currently working on exciting AI/ML projects and IoT solutions!*
+### 💼 CBC (Community Business Connect)
+**Backend & Frontend Development**
+- 🔧 **Tech:** JavaScript, Node.js, React
+- ✨ **Components:** cbc-backend & cbc-frontend repositories
+
+### 🎮 Multiplayer Quiz Game
+**Interactive Gaming Application**
+- 🔧 **Tech:** Java
+- ✨ **Features:** Real-time multiplayer gameplay, score tracking
+
+### 🏢 Student Registration System
+**Database & Backend Application**
+- 🔧 **Tech:** C#
+- ✨ **Features:** Student management, registration processing
+
+### 🍳 Restaurant App
+**Web Application for Restaurant Management**
+- 🔧 **Tech:** JavaScript, React
+- ✨ **Features:** Menu management, order handling
+
+### 💊 Medical Clinic Web App
+**Healthcare Management Solution**
+- 🔧 **Tech:** JavaScript, Node.js, MongoDB
+- ✨ **Features:** Clinic operations, patient services
+
+### 🖥️ Next.js Projects
+**Modern React Framework Implementations**
+- **DocumentNextJs** - TypeScript-based document application
+- **MyFirstNextApp** - Next.js learning project
+- **React Testing Config** - Jest & React Testing Library setup
+
+### ⏱️ OT Calculation System
+**Overtime Management System**
+- 🔧 **Tech:** C++
+- ✨ **Features:** Automated overtime calculations
+
+### 🎓 Learning Projects
+- **Computer Vision** - Python-based computer vision implementations
+- **Java Tutorial** - Java programming fundamentals
+- **Cloud Computing Projects** - AWS and cloud deployment
+- **Prisma Apps** - TypeScript/JavaScript ORM implementations
 
 </div>
 
 ---
 
-## 📈 Coding Activity
+## 📈 Current Focus
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Srimali-JayaweeraArachchi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+- 🚀 Completing E-Procurement Application for final year submission
+- 🔧 Mastering advanced React patterns and Next.js
+- 🤖 Exploring Full Stack Web Development best practices
+- ☁️ Learning Cloud Computing and DevOps
+- 🌟 Contributing to meaningful projects
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Goals
 
-- 🚀 Master advanced React patterns and Next.js
-- 🤖 Deep dive into Full Stack Web Development
-- 🔐 Explore cybersecurity and ethical hacking
-- 🌟 Contribute to more open-source projects
-- 📚 Share knowledge through technical blogging
+- 🎓 Successfully complete Final Year Project with distinction
+- 🚀 Master enterprise-level full stack development
+- 🤖 Deep dive into scalable architecture patterns
+- 🔐 Explore cybersecurity and ethical practices
+- 🌟 Build impactful open-source solutions
+- 📚 Share knowledge through technical documentation and blogging
 
 ---
 
