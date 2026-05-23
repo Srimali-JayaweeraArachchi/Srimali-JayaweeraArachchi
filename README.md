@@ -24,7 +24,7 @@ const srimali = {
 
 - 🎓 **Final Year Project:** Building a comprehensive **E-Procurement Application** for efficient procurement management
 - 🔭 I'm currently working on **Full Stack Development Projects**
-- 🌱 I'm learning **Advanced React, Machine Learning, DevOps, Cloud Technologies**
+- 🌱 I'm learning **Advanced React, DevOps, Cloud Technologies**
 - 👯 I'm looking to collaborate on **Open Source Projects & Innovative Solutions**
 - 💬 Ask me about **Full Stack Development, E-Commerce, Tech in general**
 - ⚡ Fun fact: I love solving real-world problems through code!
@@ -112,7 +112,7 @@ const srimali = {
 ### 📦 E-Procurement Application (Final Year Project)
 **Comprehensive Procurement Management System**
 - 🎓 **Status:** University Final Year Project
-- 🔧 **Tech:** Full Stack Web Application (MERN/Next.js)
+- 🔧 **Tech:** Frontend : React, Tailwind css for style Backend : JavSpringBoot Database : MySQL
 - ✨ **Features:** Vendor management, purchase orders, inventory tracking, analytics dashboard
 - 📊 **Scope:** End-to-end procurement workflow automation
 - 🚀 **Impact:** Streamlining organizational procurement processes
@@ -129,41 +129,16 @@ const srimali = {
 - ✨ **Features:** Recipe sharing, user authentication, search functionality
 - 🚀 **DevOps:** Automated deployment pipeline
 
-### 💼 CBC (Community Business Connect)
-**Backend & Frontend Development**
-- 🔧 **Tech:** JavaScript, Node.js, React
-- ✨ **Components:** cbc-backend & cbc-frontend repositories
-
 ### 🎮 Multiplayer Quiz Game
 **Interactive Gaming Application**
 - 🔧 **Tech:** Java
 - ✨ **Features:** Real-time multiplayer gameplay, score tracking
-
-### 🏢 Student Registration System
-**Database & Backend Application**
-- 🔧 **Tech:** C#
-- ✨ **Features:** Student management, registration processing
-
-### 🍳 Restaurant App
-**Web Application for Restaurant Management**
-- 🔧 **Tech:** JavaScript, React
-- ✨ **Features:** Menu management, order handling
-
-### 💊 Medical Clinic Web App
-**Healthcare Management Solution**
-- 🔧 **Tech:** JavaScript, Node.js, MongoDB
-- ✨ **Features:** Clinic operations, patient services
 
 ### 🖥️ Next.js Projects
 **Modern React Framework Implementations**
 - **DocumentNextJs** - TypeScript-based document application
 - **MyFirstNextApp** - Next.js learning project
 - **React Testing Config** - Jest & React Testing Library setup
-
-### ⏱️ OT Calculation System
-**Overtime Management System**
-- 🔧 **Tech:** C++
-- ✨ **Features:** Automated overtime calculations
 
 ### 🎓 Learning Projects
 - **Computer Vision** - Python-based computer vision implementations
